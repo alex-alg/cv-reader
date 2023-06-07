@@ -35,4 +35,4 @@ cli-viewer.py --section experience
 cli-viewer.py --section education
 ```
 - or ```cli-viewer.py``` for additional information on how to use the command
-- also can use ```cli-viewer.py``` for additional information
+- also can use ```cli-viewer.py --help``` for additional information
