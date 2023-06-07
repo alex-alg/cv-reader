@@ -20,8 +20,12 @@ pip install -r requirements.txt
 python main.py runserver
 ```
 - In the browser navigate to localhost address provided in the prompt (ex: http://123.0.0.1:5678)
-- Append the address with provided endpoints to see the respective sections (/personal, /experience, /education)
-
+- Append the address with provided endpoints to see the respective sections
+```
+<localhost>/personal 
+<localhost>/experience
+<localhost>/education
+```
 ## CLI Usage
 - Using the command-line interpreter navigate to local cloned directory
 - Use the following commands to view the CV sections
